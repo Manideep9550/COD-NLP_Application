@@ -3,8 +3,9 @@ Id: CT08DS215
 Domain: Data Science
 Duration: 10-05-2024 to 10-06-2024
 Mentor Name: Sravani Gouni
----------------------------
+
 Description:
+-------------
 
 Natural Language Processing (NLP) applications revolutionize how we interact with, understand, and utilize textual data. By leveraging computational techniques, NLP enables machines to comprehend, interpret, and generate human language, thereby facilitating a wide range of applications across various domains.
 
